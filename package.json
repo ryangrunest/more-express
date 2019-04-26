@@ -1,0 +1,22 @@
+{
+  "name": "more-express",
+  "version": "1.0.0",
+  "description": "messing around with post requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryangrunest/more-express.git"
+  },
+  "author": "Ryan Grunest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryangrunest/more-express/issues"
+  },
+  "homepage": "https://github.com/ryangrunest/more-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
